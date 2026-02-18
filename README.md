@@ -5,6 +5,9 @@ This repository contains the source code for a comparative study of Machine Lear
 Link : https://www.sciencedirect.com/science/article/pii/S2589750023000948
 
 The project focuses on the **statistical validation** of AI models in high-stakes environments, ensuring that false negatives are minimized through rigorous ensemble methods.
+<p align="center">
+  <img src="ML_process_flow.png" alt="Process flow chart" width="900"/>
+</p>
 
 ## Key Features
 *   **Ensemble Learning:** Implementation of Bagged and Boosted Decision Trees (`trainClassifierEnsemble.m`) to improve predictive stability over single models.
